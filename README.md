@@ -1,3 +1,29 @@
+# Frontend - Placas Ágil
+
+## Tecnologias
+- React
+
+## Como rodar
+
+1. Instale as dependências:
+   ```bash
+   npm install
+   ```
+2. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm start
+   ```
+
+## Estrutura inicial sugerida
+- `src/`
+  - `components/`
+  - `pages/`
+  - `services/`
+  - `utils/`
+
+## Observações
+- O frontend irá consumir a API do backend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
